@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background-color: black;
+    background-image: url("https://images.pexels.com/photos/305832/pexels-photo-305832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    /*font-family: 'Poppins', sans-serif;*/
+}
+
+.title {
+    font-family: 'Silkscreen', cursive;
+}
+
+.show {
+    font-family: 'Indie Flower', cursive;
+}
+
+ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+    list-style:none;
+}
+
+ul li {
+    padding: 2px 5px;
+}
+
+.inlinerow {
+    display: inline-block;
+    /*float: left;*/
+}
